@@ -1,0 +1,4 @@
+/.idea
+/config
+/db/local/metroLab/dbdata/
+/db/local/metroLab/docker-entrypoint-initdb.d/
